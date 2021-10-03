@@ -1,16 +1,8 @@
 # flutter_project2
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+infinitely generated list of random word pairs,
+from the package english_words. I also added heart icons
+to each pair's tile. When it is clicked, it fills the heart red,
+and saves the word pair to a list shown on a second page, the "favorites page."
+Guidance from https://www.youtube.com/watch?v=1gDhl4leEzA.
